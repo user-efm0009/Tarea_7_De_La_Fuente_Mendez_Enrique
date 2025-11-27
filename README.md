@@ -43,6 +43,7 @@ El filosofo 2 intenta comer
 El palillo 2 ha sido cogido
 El palillo 3 ha sido cogido
 El filosofo 2 se encuentra comiendo
+
 Conclusiones
 Este ejercicio permite comprender conceptos fundamentales de la programación concurrente, como:
 
